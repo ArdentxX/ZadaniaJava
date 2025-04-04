@@ -15,7 +15,7 @@ Stwórz klasę `Employee`, która implementuje interfejs `cancelReservation.java
 - 🏗 Implementować metodę cancel(), która wypisuje w konsoli komunikat o anulowaniu rezerwacji.  
 - 🔗 Posiadać pole String name, przechowujące imię pracownika.
 - 
-## ✅ Zadanie 3 – modyfikatory dostępu oraz modyfikatory niestandardowe.
+## ✅ Zadanie 3 – Modyfikatory dostępu oraz Modyfikatory niestandardowe.
 
 ### 
 Korzystając ze zdobytej wiedzy, spróbuj uzupełnić znaki `???` w klasie `ReservationService.java` tak, aby możliwa była kompilacja kodu wraz z wczytaniem pliku `Rezerwacje.json`.
