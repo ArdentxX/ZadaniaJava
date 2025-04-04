@@ -1,0 +1,49 @@
+[{
+  "customerId" : 1,
+  "customerNumber" : 104766,
+  "reservationType" : "Grupowa",
+  "customerCount" : 2,
+  "customerName" : "Sebastian",
+  "customerSurname" : "Czekaj",
+  "customerEmail" : "white@gmail.com",
+  "reservationRank" : "student",
+  "reservationTime" : "17:55",
+  "reservationDate" : "2025-04-02",
+  "reservationStatus" : false
+}, {
+  "customerId" : 3,
+  "customerNumber" : 251193,
+  "reservationType" : "Grupowa",
+  "customerCount" : 4,
+  "customerName" : "Jinsol",
+  "customerSurname" : "Bae",
+  "customerEmail" : "Nmixx@gmail.com",
+  "reservationRank" : "pracownik",
+  "reservationTime" : "17:55",
+  "reservationDate" : "2025-04-02",
+  "reservationStatus" : false
+}, {
+  "customerId" : 1,
+  "customerNumber" : 126889,
+  "reservationType" : "Samotna",
+  "customerCount" : 1,
+  "customerName" : "Kanye",
+  "customerSurname" : "East",
+  "customerEmail" : "yeyeye@gmail.com",
+  "reservationRank" : "student",
+  "reservationTime" : "17:18",
+  "reservationDate" : "2025-04-30",
+  "reservationStatus" : false
+}, {
+  "customerId" : 1,
+  "customerNumber" : 304649,
+  "reservationType" : "Samotna",
+  "customerCount" : 1,
+  "customerName" : "Marcin",
+  "customerSurname" : "Gortat",
+  "customerEmail" : "IkonaNBA@gmail.com",
+  "reservationRank" : "student",
+  "reservationTime" : "16:21",
+  "reservationDate" : "2025-04-29",
+  "reservationStatus" : true
+} ]
