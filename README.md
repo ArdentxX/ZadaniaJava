@@ -1,4 +1,6 @@
 # 🚀 Zadania
+##
+Przed rozpoczęciem zadań konieczne jest sklonowanie repozytorium na swoje urządzenie, aby zapewnić sobie poprawne pliki konfiguracyjne do poszczególnych zadań.
 
 ## ✅ Zadanie 1 – Dziedziczenie Konstruktora
 
