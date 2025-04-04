@@ -12,8 +12,8 @@ Korzystając z pliku `Food.java`, stwórz klasę `Drink`, która:
 
 ### 
 Stwórz klasę `Employee`, która implementuje interfejs `cancelReservation.java`. Klasa `Employee` powinna:
-- 🏗 Implementować metodę cancel(), która wypisuje w konsoli komunikat o anulowaniu rezerwacji.  
-- 🔗 Posiadać pole String name, przechowujące imię pracownika.
+- 🏗 Implementować metodę `cancel()`, która wypisuje w konsoli komunikat o anulowaniu rezerwacji.  
+- 🔗 Posiadać pole `String name`, przechowujące imię pracownika.
 ## ✅ Zadanie 3 – Modyfikatory dostępu oraz Modyfikatory niestandardowe.
 
 ### 
