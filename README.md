@@ -16,4 +16,4 @@ Stwórz klasę `Employee`, która implementuje interfejs `cancelReservation.java
 ## ✅ Zadanie 3 – modyfikatory dostępu oraz modyfikatory niestandardowe.
 
 ### 
-Korzystając ze zdobytej wiedzy, spróbuj uzupełnić znaki `???` w klasie `ReservationService.java` tak, aby możliwa była kompilacja kodu wraz z wczytaniem `pliku Rezerwacje.json`.
+Korzystając ze zdobytej wiedzy, spróbuj uzupełnić znaki `???` w klasie `ReservationService.java` tak, aby możliwa była kompilacja kodu wraz z wczytaniem pliku `Rezerwacje.json`.
