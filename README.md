@@ -22,7 +22,7 @@ Korzystając ze zdobytej wiedzy, spróbuj uzupełnić znaki `???` w klasie `Rese
 ## ✅ Zadanie 4 – Metody, operacje na plikach.
 
 ### 
-Korzystając z uzupełnionej klasy `ReservationService.java` utwórz w niej metodę `reservationbyNameAndSurname()`, która z pliku `Rezerwacje.json` znajdzie osobę o imieniu Sebastian i nazwisku Czekaj.
+Korzystając z uzupełnionej klasy `ReservationService.java` utwórz w niej metodę `reservationbyNameAndSurname()`, która z pliku `Rezerwacje.json` znajdzie osobę o imieniu `Sebastian` i nazwisku `Czekaj`.
 ###
 Możesz wzorowac się na poniższej metodzie:
 ![image](https://github.com/user-attachments/assets/4bebec6d-34e0-4eac-b704-57e1c86d8dae)
